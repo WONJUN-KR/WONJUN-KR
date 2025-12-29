@@ -25,8 +25,8 @@
 
 **새로운 기술을 배우고 적용하는 여정, 함께 하고 싶습니다!** 🚀
 
-📫 dnjswns0010@naver.com
-🔗 Contact & Links
+📫 dnjswns0010@naver.com <br>
+🔗 Contact & Links <br>
 [![Email](https://img.shields.io/badge/Email-dnjswns0010@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dnjswns0010@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-WONJUN--KR-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WONJUN-KR)
 [![Blog](https://img.shields.io/badge/Blog-wonjun13__-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/wonjun13_)
