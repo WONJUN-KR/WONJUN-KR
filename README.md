@@ -1,12 +1,12 @@
-안녕하세요, 2년차 백엔드 개발자입니다!
-
-Java와 Spring으로 웹 개발을 하고 있어요.
-
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/wonjun13_)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnjswns0010@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9B%90%EC%A4%80-%EC%98%A4-362a52393/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/one_jun5/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/WONJUN-KR)
+<br>
+안녕하세요, 2년차 백엔드 개발자입니다!
+
+Java와 Spring으로 웹 개발을 하고 있어요.
 
 **경험한 것들:**
 - Spring Framework 기반 관리자 페이지 개발
