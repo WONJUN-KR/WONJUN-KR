@@ -68,11 +68,3 @@
 ![CentOS](https://img.shields.io/badge/CentOS_7-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
-
-📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WONJUN-KR&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WONJUN-KR&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=WONJUN-KR&theme=radical)
