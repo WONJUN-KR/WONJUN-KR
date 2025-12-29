@@ -9,7 +9,7 @@ Java와 Spring으로 웹 개발을 하고 있어요.
 - Linux 서버 배포 및 운영
 
 레거시와 최신 기술을 모두 다루는 개발자가 되고 싶습니다.
-<h1>새로운 기술을 배우고 적용하는 걸 좋아해요!</h1>
+<h3>새로운 기술을 배우고 적용하는 걸 좋아해요!</h3>
 
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/wonjun13_)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnjswns0010@naver.com)
