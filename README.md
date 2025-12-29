@@ -1,3 +1,38 @@
+🗺️ 안녕하세요, 기술을 탐험하는 개발자입니다!
+
+**2년간의 실무 여정**에서 Spring Framework 기반의 다양한 프로젝트를 경험했습니다.  
+교육관리시스템(LMS), 시설물관리, 법무부 포털까지 - 각기 다른 도메인의 지형을 탐험하며  
+**백엔드와 프론트엔드를 오가는 풀스택 모험**을 이어왔습니다.
+
+⚔️ 지금까지의 모험
+- 🏛️ **관리자 시스템 구축**: 사용자 권한부터 공통코드까지, 시스템의 기반을 다지는 작업
+- 🛡️ **보안 강화 퀘스트**: SQL Injection, XSS 방어, 시큐어 코딩으로 안전한 서비스 구축
+- 🌐 **웹 접근성 개선**: 모두가 사용할 수 있는 서비스를 만들기 위한 WAX Scanner 활용
+- 🖥️ **서버 운영 탐험**: CentOS7 환경에서 배포부터 유지보수까지 직접 경험
+
+🧭 새로운 탐험을 향해
+안정된 길도 좋지만, 새로운 지형을 개척하고 싶었습니다.  
+그래서 **최신 기술 스택**이라는 새로운 대륙으로 다시 항해를 떠났습니다.
+
+현재 학습 중인 기술들:
+- ☕ **Java 21 & Virtual Threads**: 더 효율적인 동시성 처리
+- 🚀 **Spring Boot**: 빠르고 현대적인 개발 방식
+- ⚛️ **React**: 프론트엔드 영역 확장
+
+🎯 앞으로의 목표
+레거시와 최신 기술을 모두 다룰 수 있는 **올라운드 개발자**가 되는 것.  
+그리고 새로운 프로젝트에 **바로 투입되어도 문제없는 실전형 개발자**로 성장하는 것.
+
+**새로운 기술을 배우고 적용하는 여정, 함께 하고 싶습니다!** 🚀
+
+📫 dnjswns0010@naver.com
+🔗 Contact & Links
+[![Email](https://img.shields.io/badge/Email-dnjswns0010@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dnjswns0010@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-WONJUN--KR-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WONJUN-KR)
+[![Blog](https://img.shields.io/badge/Blog-wonjun13__-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/wonjun13_)
+[![Instagram](https://img.shields.io/badge/Instagram-one__jun5-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/one_jun5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-오원준-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9B%90%EC%A4%80-%EC%98%A4-362a52393/)
+
 🛠️ Tech Stack
 
 <h3>💻 Backend</h3>
