@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/one_jun5/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/WONJUN-KR)
 <br>
+---
 안녕하세요, 2년차 백엔드 개발자입니다!
 
 Java와 Spring으로 웹 개발을 하고 있어요.
