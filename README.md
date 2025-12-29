@@ -25,12 +25,11 @@
 
 **새로운 기술을 배우고 적용하는 여정, 함께 하고 싶습니다!** 🚀
 
-📬 Contact & Links <br>
-📧 [dnjswns0010@naver.com](mailto:dnjswns0010@naver.com)  
-💻 [GitHub](https://github.com/WONJUN-KR)  
-📝 [Blog](https://blog.naver.com/wonjun13_)  
-📷 [Instagram](https://www.instagram.com/one_jun5/)  
-💼 [LinkedIn](https://www.linkedin.com/in/%EC%9B%90%EC%A4%80-%EC%98%A4-362a52393/)
+[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/wonjun13_)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnjswns0010@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9B%90%EC%A4%80-%EC%98%A4-362a52393/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/one_jun5/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/WONJUN-KR)
 
 🛠️ Tech Stack
 
