@@ -68,3 +68,15 @@
 ![CentOS](https://img.shields.io/badge/CentOS_7-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WONJUN-KR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WONJUN-KR&theme=tokyonight&hide_border=true&background=1a1b27&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WONJUN-KR&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+</div>
