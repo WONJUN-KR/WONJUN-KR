@@ -71,12 +71,8 @@
 
 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WONJUN-KR&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WONJUN-KR&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WONJUN-KR&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WONJUN-KR&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=WONJUN-KR&theme=tokyonight&hide_border=true)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=WONJUN-KR&theme=radical)
