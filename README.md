@@ -1,6 +1,6 @@
-### 👋 안녕하세요, 의료 IT 풀스택 개발자 오원준입니다
+### 안녕하세요, 의료 IT 풀스택 개발자 오원준입니다
 
-[![wonjun.page](https://img.shields.io/badge/wonjun.page-8B3A2F?style=flat&logo=googlechrome&logoColor=white)](https://wonjun.page)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B3A2F?style=flat&logo=googlechrome&logoColor=white)](https://wonjun.page)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/wonjun13_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjun1013/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnjswns0010@naver.com)
@@ -15,7 +15,7 @@ React 화면부터 Spring·Flask 서버, PostgreSQL, AWS 배포까지 한 서비
 
 <br>
 
-### 📌 최근에 한 일
+### 최근에 한 일
 
 - 온프레미스 의료 서비스 **AWS 무손실 이전 2건** (전 테이블 일치 검증, 데이터 유실 0건)
 - **blue/green 무중단 배포** 3개 서비스에 적용 (배포 중 서비스 중단 0건)
@@ -24,22 +24,22 @@ React 화면부터 Spring·Flask 서버, PostgreSQL, AWS 배포까지 한 서비
 
 <br>
 
-### 🚀 사이드 프로젝트
+### 사이드 프로젝트
 
 | 프로젝트 | 한 줄 소개 | 내가 맡은 부분 | 링크 |
 |---|---|---|---|
-| **GOTCHA** | 근처 가챠샵을 지도에서 찾고 리뷰·제보로 채워가는 서비스 (App Store 출시) | 5인&nbsp;팀&nbsp;·&nbsp;풀스택 | [Live](https://gotcha.it.com/)&nbsp;·&nbsp;[FE](https://github.com/fcde-project9/GOTCHA-FE)&nbsp;·&nbsp;[BE](https://github.com/fcde-project9/GOTCHA-BE) |
+| **Portfolio** | 개인 사이트 - 네이버 블로그 자동 동기화 | 1인 | [Live](https://wonjun.page)&nbsp;·&nbsp;[Code](https://github.com/WONJUN-KR/wonjun-portfolio) |
+| **GOTCHA** | 가챠샵 지도·리뷰 서비스 (App Store 출시) | 5인&nbsp;팀&nbsp;·&nbsp;풀스택 | [Live](https://gotcha.it.com/)&nbsp;·&nbsp;[FE](https://github.com/fcde-project9/GOTCHA-FE)&nbsp;·&nbsp;[BE](https://github.com/fcde-project9/GOTCHA-BE) |
 | **AI&nbsp;Auto&nbsp;Posting** | 블로그 콘텐츠 자동 발행 플랫폼 | 6인&nbsp;팀&nbsp;·&nbsp;풀스택&nbsp;·&nbsp;팀장 | [FE](https://github.com/WONJUN-KR/AI-Auto-Posting-Frontend)&nbsp;·&nbsp;[BE](https://github.com/WONJUN-KR/AI-Auto-Posting-Backend) |
 | **Co's&nbsp;House** | 인테리어 커뮤니티 + 쇼핑 플랫폼 | 5인&nbsp;팀&nbsp;·&nbsp;풀스택&nbsp;·&nbsp;팀장 | [Code](https://github.com/WONJUN-KR/Co-s_House) |
-| **wonjun.page** | 개인 포트폴리오 사이트 - 네이버 블로그 자동 동기화 | 1인 | [Live](https://wonjun.page)&nbsp;·&nbsp;[Code](https://github.com/WONJUN-KR/wonjun-portfolio) |
 
 자세한 기능과 역할은 [포트폴리오](https://wonjun.page/projects)에 정리해두었습니다.
 
 <br>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-<h5>💻 Backend</h5>
+<h5>Backend</h5>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +55,7 @@ React 화면부터 Spring·Flask 서버, PostgreSQL, AWS 배포까지 한 서비
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h5>🎨 Frontend</h5>
+<h5>Frontend</h5>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,7 +65,7 @@ React 화면부터 Spring·Flask 서버, PostgreSQL, AWS 배포까지 한 서비
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<h5>⚙️ DevOps</h5>
+<h5>DevOps</h5>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
