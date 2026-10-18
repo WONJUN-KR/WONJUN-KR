@@ -28,10 +28,10 @@ React 화면부터 Spring·Flask 서버, PostgreSQL, AWS 배포까지 한 서비
 
 | 프로젝트 | 한 줄 소개 | 내가 맡은 부분 | 링크 |
 |---|---|---|---|
-| **GOTCHA** | 근처 가챠샵을 지도에서 찾고 리뷰·제보로 채워가는 서비스 (App Store 출시) | 5인 팀 · 풀스택 | [서비스](https://gotcha.it.com/) · [FE](https://github.com/fcde-project9/GOTCHA-FE) · [BE](https://github.com/fcde-project9/GOTCHA-BE) |
-| **AI Auto Posting** | 블로그 콘텐츠 자동 발행 플랫폼 | 6인 팀 · 풀스택 · 팀장 | [FE](https://github.com/WONJUN-KR/AI-Auto-Posting-Frontend) · [BE](https://github.com/WONJUN-KR/AI-Auto-Posting-Backend) |
-| **Co's House** | 인테리어 커뮤니티 + 쇼핑 플랫폼 | 5인 팀 · 풀스택 · 팀장 | [코드](https://github.com/WONJUN-KR/Co-s_House) |
-| **wonjun.page** | 개인 포트폴리오 사이트 - 네이버 블로그 자동 동기화 | 1인 | [사이트](https://wonjun.page) · [코드](https://github.com/WONJUN-KR/wonjun-portfolio) |
+| **GOTCHA** | 근처 가챠샵을 지도에서 찾고 리뷰·제보로 채워가는 서비스 (App Store 출시) | 5인&nbsp;팀&nbsp;·&nbsp;풀스택 | [Live](https://gotcha.it.com/)&nbsp;·&nbsp;[FE](https://github.com/fcde-project9/GOTCHA-FE)&nbsp;·&nbsp;[BE](https://github.com/fcde-project9/GOTCHA-BE) |
+| **AI&nbsp;Auto&nbsp;Posting** | 블로그 콘텐츠 자동 발행 플랫폼 | 6인&nbsp;팀&nbsp;·&nbsp;풀스택&nbsp;·&nbsp;팀장 | [FE](https://github.com/WONJUN-KR/AI-Auto-Posting-Frontend)&nbsp;·&nbsp;[BE](https://github.com/WONJUN-KR/AI-Auto-Posting-Backend) |
+| **Co's&nbsp;House** | 인테리어 커뮤니티 + 쇼핑 플랫폼 | 5인&nbsp;팀&nbsp;·&nbsp;풀스택&nbsp;·&nbsp;팀장 | [Code](https://github.com/WONJUN-KR/Co-s_House) |
+| **wonjun.page** | 개인 포트폴리오 사이트 - 네이버 블로그 자동 동기화 | 1인 | [Live](https://wonjun.page)&nbsp;·&nbsp;[Code](https://github.com/WONJUN-KR/wonjun-portfolio) |
 
 자세한 기능과 역할은 [포트폴리오](https://wonjun.page/projects)에 정리해두었습니다.
 
