@@ -1,56 +1,76 @@
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@dnjswns0010/posts)
+### 👋 안녕하세요, 의료 IT 풀스택 개발자 오원준입니다
+
+[![wonjun.page](https://img.shields.io/badge/wonjun.page-8B3A2F?style=flat&logo=googlechrome&logoColor=white)](https://wonjun.page)
+[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/wonjun13_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjun1013/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnjswns0010@naver.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9B%90%EC%A4%80-%EC%98%A4-362a52393/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/WONJUN-UXN)
+
+연속혈당측정(CGM) 의료기기 기업에서 환자용 혈당 모니터링 서비스와 사내 실험 데이터 플랫폼을 맡고 있습니다.
+React 화면부터 Spring·Flask 서버, PostgreSQL, AWS 배포까지 한 서비스를 처음부터 끝까지 책임지는 방식으로 일합니다.
+
+특히 **운영 중인 의료 서비스를 멈추지 않고 바꾸는 일**을 많이 해왔습니다.
+온프레미스 서비스를 AWS로 옮기고, blue/green 무중단 배포를 만들고, 테스트 없던 레거시에 테스트와 자동 롤백을 붙였습니다.
+그 전에는 2년 동안 Spring 기반 포털·LMS·시설물 관리 시스템을 개발·운영했고,
+퇴근 후에는 팀 사이드 프로젝트로 가챠샵 지도 서비스 **GOTCHA**를 App Store에 출시했습니다.
+
 <br>
----
-안녕하세요, 2년차 백엔드 개발자입니다!
 
-Java와 Spring으로 웹 개발을 하고 있어요.
+### 📌 최근에 한 일
 
-**경험한 것들:**
-- Spring Framework 기반 관리자 페이지 개발
-- LMS, 시설물관리, 정부 포털 프로젝트
-- 웹 접근성 개선 및 보안 강화
-- Linux 서버 배포 및 운영
+- 온프레미스 의료 서비스 **AWS 무손실 이전 2건** (전 테이블 일치 검증, 데이터 유실 0건)
+- **blue/green 무중단 배포** 3개 서비스에 적용 (배포 중 서비스 중단 0건)
+- 데이터 플랫폼 목록 조회 **20초 → 0.6초**, 리포트 쿼리 **29회 → 3회**
+- 테스트 없던 레거시에 CI 테스트 게이트 도입 (**0개 → 211개**), 실패 시 자동 롤백
 
-레거시와 최신 기술을 모두 다루는 개발자가 되고 싶습니다. <br>
-**새로운 기술을 배우고 적용하는 걸 좋아합니다!**
+<br>
 
-🛠️ Tech Stack
+### 🚀 사이드 프로젝트
 
-<h3>💻 Backend</h3>
+| 프로젝트 | 한 줄 소개 | 내가 맡은 부분 | 링크 |
+|---|---|---|---|
+| **GOTCHA** | 근처 가챠샵을 지도에서 찾고 리뷰·제보로 채워가는 서비스 (App Store 출시) | 5인 팀 · 풀스택 | [서비스](https://gotcha.it.com/) · [FE](https://github.com/fcde-project9/GOTCHA-FE) · [BE](https://github.com/fcde-project9/GOTCHA-BE) |
+| **AI Auto Posting** | 블로그 콘텐츠 자동 발행 플랫폼 | 6인 팀 · 풀스택 · 팀장 | [FE](https://github.com/WONJUN-KR/AI-Auto-Posting-Frontend) · [BE](https://github.com/WONJUN-KR/AI-Auto-Posting-Backend) |
+| **Co's House** | 인테리어 커뮤니티 + 쇼핑 플랫폼 | 5인 팀 · 풀스택 · 팀장 | [코드](https://github.com/WONJUN-KR/Co-s_House) |
+| **wonjun.page** | 개인 포트폴리오 사이트 - 네이버 블로그 자동 동기화 | 1인 | [사이트](https://wonjun.page) · [코드](https://github.com/WONJUN-KR/wonjun-portfolio) |
+
+자세한 기능과 역할은 [포트폴리오](https://wonjun.page/projects)에 정리해두었습니다.
+
+<br>
+
+### 🛠️ Tech Stack
+
+<h5>💻 Backend</h5>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![eGovFramework](https://img.shields.io/badge/eGovFramework-0033A0?style=for-the-badge&logo=&logoColor=white)
-
-<h3>🎨 Frontend</h3>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-0095D5?style=for-the-badge&logo=&logoColor=white)
-
-<h3>💾 Database & ORM</h3>
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-<h3>📊 Data & Messaging</h3>
+<h5>🎨 Frontend</h5>
 
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<h3>⚙️ Infrastructure & Tools</h3>
+<h5>⚙️ DevOps</h5>
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CentOS](https://img.shields.io/badge/CentOS_7-262577?style=for-the-badge&logo=centos&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-30D475?style=for-the-badge&logo=&logoColor=black)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
