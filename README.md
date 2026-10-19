@@ -1,4 +1,4 @@
-### 안녕하세요, 의료 IT 풀스택 개발자 오원준입니다
+## 안녕하세요, 의료 IT 풀스택 개발자 오원준입니다
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B3A2F?style=flat&logo=googlechrome&logoColor=white)](https://wonjun.page)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/wonjun13_)
