@@ -5,13 +5,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjun1013/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnjswns0010@naver.com)
 
-연속혈당측정(CGM) 의료기기 기업에서 환자용 혈당 모니터링 서비스와 사내 실험 데이터 플랫폼을 맡고 있습니다.<br>
-React 화면부터 Spring·Flask 서버, PostgreSQL, AWS 배포까지 한 서비스를 처음부터 끝까지 책임지는 방식으로 일합니다.
+연속혈당측정(CGM) 의료기기 기업에서 React, Spring·Flask, PostgreSQL, AWS로 환자용 혈당 모니터링 서비스와 사내 실험 데이터 플랫폼의 개발과 운영을 함께 맡고 있습니다.
 
-특히 **운영 중인 의료 서비스를 멈추지 않고 바꾸는 일**을 많이 해왔습니다.
-온프레미스 서비스를 AWS로 옮기고, blue/green 무중단 배포를 만들고, 테스트 없던 레거시에 테스트와 자동 롤백을 붙였습니다.
-그 전에는 2년 동안 Spring 기반 포털·LMS·시설물 관리 시스템을 개발·운영했고,
-퇴근 후에는 팀 사이드 프로젝트로 가챠샵 지도 서비스 **GOTCHA**를 App Store에 출시했습니다.
+특히 **운영 중인 의료 서비스를 중단 없이 개선하는 일**을 많이 해왔습니다.
+온프레미스 서비스를 AWS로 옮기고, blue/green 무중단 배포를 만들고, 테스트 없던 레거시에 테스트와 자동 롤백을 붙였습니다.<br>
+이전 회사(2022.03 ~ 2024.04)에서는 Spring 기반 포털·LMS·시설물 관리 시스템을 개발·운영했습니다.<br>
+사이드 프로젝트로는 5인 팀에서 가챠샵 지도 서비스 **GOTCHA**를 만들어 App Store에 출시했습니다.
 
 <br>
 
@@ -28,10 +27,10 @@ React 화면부터 Spring·Flask 서버, PostgreSQL, AWS 배포까지 한 서비
 
 | 프로젝트 | 한 줄 소개 | 내가 맡은 부분 | 링크 |
 |---|---|---|---|
-| **Portfolio** | 개인 사이트 - 네이버 블로그 자동 동기화 | 1인 | [Live](https://wonjun.page)&nbsp;·&nbsp;[Code](https://github.com/WONJUN-KR/wonjun-portfolio) |
+| **Portfolio** | 개인 사이트 - 네이버 블로그 자동 동기화 | 1인 | [Live](https://wonjun.page)&nbsp;·&nbsp;[FE](https://github.com/WONJUN-KR/wonjun-portfolio) |
 | **GOTCHA** | 가챠샵 지도·리뷰 서비스 (App Store 출시) | 5인&nbsp;팀&nbsp;·&nbsp;풀스택 | [Live](https://gotcha.it.com/)&nbsp;·&nbsp;[FE](https://github.com/fcde-project9/GOTCHA-FE)&nbsp;·&nbsp;[BE](https://github.com/fcde-project9/GOTCHA-BE) |
 | **AI&nbsp;Auto&nbsp;Posting** | 블로그 콘텐츠 자동 발행 플랫폼 | 6인&nbsp;팀&nbsp;·&nbsp;풀스택&nbsp;·&nbsp;팀장 | [FE](https://github.com/WONJUN-KR/AI-Auto-Posting-Frontend)&nbsp;·&nbsp;[BE](https://github.com/WONJUN-KR/AI-Auto-Posting-Backend) |
-| **Co's&nbsp;House** | 인테리어 커뮤니티 + 쇼핑 플랫폼 | 5인&nbsp;팀&nbsp;·&nbsp;풀스택&nbsp;·&nbsp;팀장 | [Code](https://github.com/WONJUN-KR/Co-s_House) |
+| **Co's&nbsp;House** | 인테리어 커뮤니티 + 쇼핑 플랫폼 | 5인&nbsp;팀&nbsp;·&nbsp;풀스택&nbsp;·&nbsp;팀장 | [FE+BE](https://github.com/WONJUN-KR/Co-s_House) |
 
 자세한 기능과 역할은 [포트폴리오](https://wonjun.page/projects)에 정리해두었습니다.
 
