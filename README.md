@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjun1013/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnjswns0010@naver.com)
 
-연속혈당측정(CGM) 의료기기 기업에서 환자용 혈당 모니터링 서비스와 사내 실험 데이터 플랫폼을 맡고 있습니다.
+연속혈당측정(CGM) 의료기기 기업에서 환자용 혈당 모니터링 서비스와 사내 실험 데이터 플랫폼을 맡고 있습니다.<br>
 React 화면부터 Spring·Flask 서버, PostgreSQL, AWS 배포까지 한 서비스를 처음부터 끝까지 책임지는 방식으로 일합니다.
 
 특히 **운영 중인 의료 서비스를 멈추지 않고 바꾸는 일**을 많이 해왔습니다.
