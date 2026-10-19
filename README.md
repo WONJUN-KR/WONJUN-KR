@@ -26,16 +26,16 @@
 
 ### 사이드 프로젝트
 
-**GOTCHA**는 5인 팀으로 기획부터 App Store 출시까지 함께한 가챠샵 지도 서비스입니다. 풀스택으로 지도 탐색·제보 화면(Next.js)과 차단·신고·푸시 알림 서버(Spring Boot)를 맡았습니다.
+대표 팀작 **GOTCHA**는 5인 팀으로 기획부터 App Store 출시까지 함께한 가챠샵 지도 서비스입니다. 풀스택으로 지도 탐색·제보 화면(Next.js)과 차단·신고·푸시 알림 서버(Spring Boot)를 맡았습니다.
 
-**PORTFOLIO**는 Next.js로 만들어 운영하고 있는 포트폴리오 사이트입니다.
+대표 개인작 **PORTFOLIO**는 Next.js로 만들어 운영하고 있는 포트폴리오 사이트입니다.
 
 | 프로젝트 | 한 줄 소개 | 내가 맡은 부분 | 링크 |
 |---|---|---|---|
 | **Portfolio** | 개인 사이트 - 네이버 블로그 자동 동기화 | 1인 | [Live](https://wonjun.page)&nbsp;·&nbsp;[FE](https://github.com/WONJUN-KR/wonjun-portfolio) |
 | **GOTCHA** | 가챠샵 지도·리뷰 서비스 (App Store 출시) | 5인&nbsp;팀&nbsp;·&nbsp;풀스택 | [Live](https://gotcha.it.com/)&nbsp;·&nbsp;[FE](https://github.com/fcde-project9/GOTCHA-FE)&nbsp;·&nbsp;[BE](https://github.com/fcde-project9/GOTCHA-BE) |
 | **AI&nbsp;Auto&nbsp;Posting** | 블로그 콘텐츠 자동 발행 플랫폼 | 6인&nbsp;팀&nbsp;·&nbsp;풀스택&nbsp;·&nbsp;팀장 | [FE](https://github.com/WONJUN-KR/AI-Auto-Posting-Frontend)&nbsp;·&nbsp;[BE](https://github.com/WONJUN-KR/AI-Auto-Posting-Backend) |
-| **Co's&nbsp;House** | 인테리어 커뮤니티 + 쇼핑 플랫폼 | 5인&nbsp;팀&nbsp;·&nbsp;풀스택&nbsp;·&nbsp;팀장 | [FE+BE](https://github.com/WONJUN-KR/Co-s_House) |
+| **Co's&nbsp;House** | 인테리어 커뮤니티 + 쇼핑 플랫폼 | 5인&nbsp;팀&nbsp;·&nbsp;풀스택&nbsp;·&nbsp;팀장 | [FE](https://github.com/WONJUN-KR/Co-s_House)&nbsp;·&nbsp;[BE](https://github.com/WONJUN-KR/Co-s_House) |
 
 자세한 기능과 역할은 [포트폴리오](https://wonjun.page/projects)에 정리해두었습니다.
 
