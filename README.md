@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnjswns0010@naver.com)
 
 연속혈당측정(CGM) 의료기기 기업에서 환자용 혈당 모니터링 서비스와 사내 실험 데이터 플랫폼을 담당하고 있습니다.<br>
-이 서비스들을 React, Spring·Flask, PostgreSQL, AWS로 개발하고 운영하고 있습니다.
+React, Spring·Flask, PostgreSQL, AWS로 개발하고 운영하고 있습니다.
 
 특히 **운영 중인 의료 서비스를 중단 없이 개선하는 일**을 많이 해왔습니다.<br>
 온프레미스 서비스를 AWS로 옮기고, blue/green 무중단 배포를 만들고, 테스트 없던 레거시에 테스트와 자동 롤백을 붙였습니다.
